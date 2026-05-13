@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola 👋 Soy Kimberlyn
 
-<!--
-**kimberlynZ-prog/kimberlynZ-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer Junior apasionada por el desarrollo web y la tecnología.
 
-Here are some ideas to get you started:
+🚀 Tecnologías y herramientas:
+- React
+- JavaScript
+- Python
+- Flask
+- MySQL
+- HTML5
+- CSS3
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Proyecto destacado:
+Aplicación web para gestionar listas de supermercado con autenticación de usuarios, roles, administración de productos e integración de IA para generación de recetas.
+
+🛠 Actualmente sigo aprendiendo y mejorando mis habilidades en desarrollo frontend y backend.
+
+📫 Contacto:
+- LinkedIn: linkedin.com/in/kimberlyn-zerpa-3a2643399
+- Email: kimberlynlzerpa@gmail.com
+
+✨ Siempre buscando nuevas oportunidades para crecer como desarrolladora.
