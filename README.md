@@ -1,6 +1,6 @@
 # Hola 👋 Soy Kimberlyn
 
-💻 Full Stack Developer Junior apasionada por el desarrollo web y la tecnología.
+💻 Full Stack Developer 
 
 🚀 Tecnologías y herramientas:
 - React
