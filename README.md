@@ -1,6 +1,6 @@
 # Hola 👋 Soy Kimberlyn
 
-💻 Full Stack Developer 
+💻 Full Stack Developer.
 
 🚀 Tecnologías y herramientas:
 - React
